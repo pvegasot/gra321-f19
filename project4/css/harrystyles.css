@@ -1,0 +1,23 @@
+/* Styles for project 4 */
+
+body {
+   letter-spacing: .5px; 
+   line-height: 1.5;
+   padding: 10%;
+   font-family: geneo-std, sans-serif;
+   font-weight: 400;
+   font-style: normal;
+}
+
+h1 {
+    color: darkgreen;
+    font-weight: 700;
+}
+
+img {
+  max-width: 100%;
+}
+
+ul {
+  margin-bottom: 2rem;
+}
