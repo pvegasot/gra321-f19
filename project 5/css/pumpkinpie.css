@@ -1,0 +1,23 @@
+/* Styles for project 5 */
+
+body {
+   letter-spacing: .8px; 
+   line-height: 1.75;
+   padding: 15%;
+   font-family: realist, sans-serif;
+   font-weight: 100;
+   font-style: italic;
+}
+
+h1 {
+    color: darkorange;
+    font-weight: 1000;
+}
+
+img {
+  max-width: 100%;
+}
+
+ul {
+  margin-bottom: 2rem;
+}
